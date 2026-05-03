@@ -1,0 +1,6 @@
+[10604:12512:0503/143204.044:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[10604:12512:0503/143204.148:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[7612:7324:0503/143209.879:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-898327A38E860B701C8A4D35BD448525 will be ignored
+[15172:12516:0503/143519.017:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 7-64BF5C67651583BF63E21D7D76E30352 will be ignored
+[2732:12852:0503/143639.695:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[2732:12852:0503/143639.695:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.

@@ -1,3 +1,8 @@
-2026/05/02-14:24:04.418 4630 Reusing MANIFEST C:\Users\Bianca\OneDrive\Documents\Unreal Projects\Joc_Horror_Pusacat\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/02-14:24:04.424 4630 Recovering log #3
-2026/05/02-14:24:04.426 4630 Reusing old log C:\Users\Bianca\OneDrive\Documents\Unreal Projects\Joc_Horror_Pusacat\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/03-14:32:04.209 1ce4 Reusing MANIFEST C:\Users\Bianca\OneDrive\Documents\Unreal Projects\Joc_Horror_Pusacat\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/03-14:32:04.215 1ce4 Recovering log #6
+2026/05/03-14:32:04.215 1ce4 Level-0 table #9: started
+2026/05/03-14:32:04.221 1ce4 Level-0 table #9: 74538 bytes OK
+2026/05/03-14:32:04.226 1ce4 Delete type=0 #6
+2026/05/03-14:38:19.011 3bfc Level-0 table #12: started
+2026/05/03-14:38:19.026 3bfc Level-0 table #12: 73919 bytes OK
+2026/05/03-14:38:19.029 3bfc Delete type=0 #10

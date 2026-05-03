@@ -1,3 +1,69 @@
-2026/05/02-14:42:37.900 149c Reusing MANIFEST C:\Users\Bianca\OneDrive\Documents\Unreal Projects\Joc_Horror_Pusacat\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/02-14:42:37.907 149c Recovering log #3
-2026/05/02-14:42:37.910 149c Reusing old log C:\Users\Bianca\OneDrive\Documents\Unreal Projects\Joc_Horror_Pusacat\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+2026/05/03-14:39:20.684 3b7c Reusing MANIFEST C:\Users\Bianca\OneDrive\Documents\Unreal Projects\Joc_Horror_Pusacat\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/03-14:39:20.690 3b7c Recovering log #11
+2026/05/03-14:39:20.692 3b7c Reusing old log C:\Users\Bianca\OneDrive\Documents\Unreal Projects\Joc_Horror_Pusacat\Saved\webcache_6613\Default\Local Storage\leveldb/000011.log 
+2026/05/03-15:03:17.115 15c Level-0 table #15: started
+2026/05/03-15:03:17.130 15c Level-0 table #15: 75735 bytes OK
+2026/05/03-15:03:17.132 15c Delete type=0 #11
+2026/05/03-15:06:09.165 15c Level-0 table #17: started
+2026/05/03-15:06:09.171 15c Level-0 table #17: 70322 bytes OK
+2026/05/03-15:06:09.172 15c Delete type=0 #14
+2026/05/03-15:06:09.173 15c Compacting 4@0 + 1@1 files
+2026/05/03-15:06:09.178 15c Generated table #18@0: 8 keys, 25534 bytes
+2026/05/03-15:06:09.179 15c Compacted 4@0 + 1@1 files => 25534 bytes
+2026/05/03-15:06:09.179 15c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/03-15:06:09.180 15c Delete type=2 #7
+2026/05/03-15:06:09.180 15c Delete type=2 #9
+2026/05/03-15:06:09.180 15c Delete type=2 #12
+2026/05/03-15:06:09.180 15c Delete type=2 #15
+2026/05/03-15:06:09.180 15c Delete type=2 #17
+2026/05/03-15:09:46.399 15c Level-0 table #20: started
+2026/05/03-15:09:46.416 15c Level-0 table #20: 70942 bytes OK
+2026/05/03-15:09:46.429 15c Delete type=0 #16
+2026/05/03-15:28:09.342 15c Level-0 table #22: started
+2026/05/03-15:28:09.359 15c Level-0 table #22: 71685 bytes OK
+2026/05/03-15:28:09.360 15c Delete type=0 #19
+2026/05/03-15:28:30.492 15c Level-0 table #24: started
+2026/05/03-15:28:30.503 15c Level-0 table #24: 72706 bytes OK
+2026/05/03-15:28:30.505 15c Delete type=0 #21
+2026/05/03-15:29:01.752 15c Level-0 table #26: started
+2026/05/03-15:29:01.758 15c Level-0 table #26: 74762 bytes OK
+2026/05/03-15:29:01.760 15c Delete type=0 #23
+2026/05/03-15:29:01.761 15c Compacting 4@0 + 1@1 files
+2026/05/03-15:29:01.767 15c Generated table #27@0: 8 keys, 27270 bytes
+2026/05/03-15:29:01.767 15c Compacted 4@0 + 1@1 files => 27270 bytes
+2026/05/03-15:29:01.767 15c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/03-15:29:01.768 15c Delete type=2 #18
+2026/05/03-15:29:01.768 15c Delete type=2 #20
+2026/05/03-15:29:01.768 15c Delete type=2 #22
+2026/05/03-15:29:01.768 15c Delete type=2 #24
+2026/05/03-15:29:01.768 15c Delete type=2 #26
+2026/05/03-15:29:22.076 15c Level-0 table #29: started
+2026/05/03-15:29:22.092 15c Level-0 table #29: 76906 bytes OK
+2026/05/03-15:29:22.094 15c Delete type=0 #25
+2026/05/03-15:29:40.495 15c Level-0 table #31: started
+2026/05/03-15:29:40.511 15c Level-0 table #31: 78778 bytes OK
+2026/05/03-15:29:40.517 15c Delete type=0 #28
+2026/05/03-15:35:19.798 15c Level-0 table #33: started
+2026/05/03-15:35:19.814 15c Level-0 table #33: 80534 bytes OK
+2026/05/03-15:35:19.822 15c Delete type=0 #30
+2026/05/03-15:36:03.452 15c Level-0 table #35: started
+2026/05/03-15:36:03.457 15c Level-0 table #35: 80974 bytes OK
+2026/05/03-15:36:03.458 15c Delete type=0 #32
+2026/05/03-15:36:03.459 15c Compacting 4@0 + 1@1 files
+2026/05/03-15:36:03.463 15c Generated table #36@0: 8 keys, 29030 bytes
+2026/05/03-15:36:03.463 15c Compacted 4@0 + 1@1 files => 29030 bytes
+2026/05/03-15:36:03.464 15c compacted to: files[ 0 1 1 0 0 0 0 ]
+2026/05/03-15:36:03.465 15c Delete type=2 #27
+2026/05/03-15:36:03.465 15c Delete type=2 #29
+2026/05/03-15:36:03.465 15c Delete type=2 #31
+2026/05/03-15:36:03.465 15c Delete type=2 #33
+2026/05/03-15:36:03.465 15c Delete type=2 #35
+2026/05/03-15:36:50.446 15c Level-0 table #38: started
+2026/05/03-15:36:50.453 15c Level-0 table #38: 82610 bytes OK
+2026/05/03-15:36:50.454 15c Delete type=0 #34
+2026/05/03-15:37:16.159 15c Level-0 table #40: started
+2026/05/03-15:37:16.164 15c Level-0 table #40: 85294 bytes OK
+2026/05/03-15:37:16.166 15c Delete type=0 #37
+2026/05/03-15:39:17.108 15c Level-0 table #42: started
+2026/05/03-15:39:17.124 15c Level-0 table #42: 86934 bytes OK
+2026/05/03-15:39:17.126 15c Delete type=0 #39
